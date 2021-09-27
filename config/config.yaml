@@ -42,6 +42,7 @@ psus:
 #  config section here      
 config:
   - switches_config.yaml
+  - lamp_config.yaml
   #- lights_config.yaml
   #- coils_config.yaml
   # ...
